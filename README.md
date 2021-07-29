@@ -1,6 +1,6 @@
 
 <p align="center"><a href="#"><img src="https://thumbs.gfycat.com/BigThunderousAppaloosa-max-1mb.gif" width="250"></a></p> 
-<h1 align="center"><b>PyLyricsBot</b></h1>
+<h1 align="center"><b>PyLyrics-Bot</b></h1>
 <h4 align="center">Telegram Bot To Search Song Lyrics From Genuis.</h4>
 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/AmineSoukara/PyLyricsBot?color=blue&style=plastic&logo=github)
@@ -51,5 +51,10 @@ python3 main.py
 </details>
 
 
-# Support 
+# 💬 Support 
 <a href="https://t.me/damienhelp"><img src="https://img.shields.io/badge/Support_Group-ffff00?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/damiensoukara"><img src="https://img.shields.io/badge/Updates_Channel-ffff00?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+# 📭 Credits :
+[@AmineSoukara](https://github.com/AmineSoukara) 
+[@Dan](https://github.com/pyrogram/pyrogram)
+[@JohnWMillr](https://github.com/johnwmillr/LyricsGenius)
