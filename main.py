@@ -133,7 +133,7 @@ async def lytxt(c, m):
         return await m.reply_text(
             Tr.ERR_TEXT,
             quote=True,
-            reply_markup=ikb(CLOSEBTN),
+            # reply_markup=ikb(CLOSEBTN),
         )
 
     await m.reply_chat_action("typing")
