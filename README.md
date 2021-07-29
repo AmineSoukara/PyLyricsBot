@@ -11,8 +11,8 @@
 ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/AmineSoukara/PyLyricsBot?style=plastic&logo=github)
 ![GitHub Contributors](https://img.shields.io/github/contributors/AmineSoukara/PyLyricsBot?style=plastic&logo=github)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/AmineSoukara/PyLyricsBot?color=red&style=plastic&logo=github)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/AmineSoukara/PyLyricsBot?style=plastic&logo=github)
-![GitHub](https://img.shields.io/github/license/AmineSoukara/PyLyricsBot?style=plastic&logo=github)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/AmineSoukara/PyLyricsBot?color=yellow&style=plastic&logo=github)
+![GitHub](https://img.shields.io/github/license/AmineSoukara/PyLyricsBot?color=blue&style=plastic&logo=github)
 
 
 # 🤖 Demo:
